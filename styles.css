@@ -97,7 +97,7 @@ h1 {
   height: auto;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
-  background: url("/images/image-header-mobile.jpg") center center / cover
+  background: url("/images/image-header-desktop.jpg") center center / cover
     no-repeat;
   overflow: hidden;
 }
